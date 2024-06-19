@@ -1,0 +1,9 @@
+﻿  customer.cpp
+C:\Users\86173\Desktop\课设\餐厅餐位预约系统\customer.cpp(24,7): warning C4101: “ch”: 未引用的局部变量
+C:\Users\86173\Desktop\课设\餐厅餐位预约系统\customer.cpp(279,10): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\86173\Desktop\课设\餐厅餐位预约系统\customer.cpp(496,10): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\86173\Desktop\课设\餐厅餐位预约系统\customer.cpp(721,10): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\86173\Desktop\课设\餐厅餐位预约系统\customer.cpp(783,10): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\86173\Desktop\课设\餐厅餐位预约系统\customer.cpp(986,10): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\86173\Desktop\课设\餐厅餐位预约系统\customer.cpp(1040,10): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+  餐厅餐位预约系统.vcxproj -> C:\Users\86173\Desktop\课设\餐厅餐位预约系统\x64\Debug\餐厅餐位预约系统.exe
